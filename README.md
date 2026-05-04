@@ -1,3 +1,4 @@
+ HEAD
 # Campus Event Management System
 
 ## 📌 Project Description
@@ -52,3 +53,6 @@ Add your deployed link here (optional)
 - Ensure PostgreSQL is running before starting backend
 - Backend runs on port 5000
 - Frontend runs on port 3000
+
+# campus-event-management-system
+>>>>>>> 5f821f63ba45dfabfa86b5578323a40d1f1e8f73
