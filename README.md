@@ -36,7 +36,7 @@ npm start
 - Run SQL script (provided in docs or below)
 
 ## 🔐 Login Credentials
-Email: admin@campus.com  
+Email: admin@gamil.com  
 Password: 1234
 
 ## 📂 Documents
