@@ -56,4 +56,3 @@ Add your deployed link here (optional)
 
 # campus-event-management-system
 >>>>>>> 5f821f63ba45dfabfa86b5578323a40d1f1e8f73
-## Updated by <your name>
